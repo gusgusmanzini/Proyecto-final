@@ -1,0 +1,21 @@
+.imgLogo{
+    width: 150px;
+}
+
+.encabezado {
+    background-color: $color-fondo-encabezado;
+    
+}
+
+.menuNav a {
+
+    @include anclas;
+    border-left: 1px solid #24a735;
+    border-right: 1px solid #22692c;
+    padding: 0;
+}
+
+.menuNav a:hover {
+    background-color: $color-fondo;
+    color: #fafafa;
+}

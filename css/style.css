@@ -1,0 +1,382 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,200&family=Open+Sans:ital,wght@0,300;0,400;1,500&family=Poppins:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&family=Roboto&family=Roboto+Condensed:ital,wght@1,300&family=Roboto+Mono:ital,wght@0,300;0,400;1,300&display=swap");
+.btncafecitos {
+  background-color: #2b7a43;
+  color: #fafafa;
+}
+.btncafecitos:hover {
+  background-color: #21612c;
+  color: #fafafa;
+}
+
+.card {
+  border: none;
+}
+
+.contactate {
+  margin: auto;
+}
+
+.nombre {
+  margin: auto;
+  padding: auto;
+  background-color: #21612c;
+}
+
+.contacto {
+  color: rgb(235, 235, 235);
+  padding: 0;
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.body1 {
+  background: linear-gradient(90deg, rgb(66, 136, 101), 0%, rgb(71, 150, 92) 35%, rgb(31, 73, 41) 100%);
+  font-family: "Times New Roman", Times, serif;
+}
+
+.form {
+  width: 24%;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+.boton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container2 {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  height: 200px;
+}
+
+.footer {
+  bottom: 0;
+  position: absolute;
+}
+
+.row {
+  box-sizing: content-box;
+  width: 100%;
+}
+
+.fondo1 {
+  background: linear-gradient(90deg, rgb(66, 136, 101), 0%, rgb(71, 150, 92) 35%, rgb(31, 73, 41) 100%);
+}
+
+.containerform {
+  margin-top: 100px;
+}
+
+.contenedorPadre {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgLogo {
+  width: 150px;
+}
+
+.encabezado {
+  background-color: #fff;
+}
+
+.menuNav a {
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  border-left: 1px solid #24a735;
+  border-right: 1px solid #22692c;
+  padding: 0;
+}
+
+.menuNav a:hover {
+  background-color: #335735;
+  color: #fafafa;
+}
+
+.body {
+  background: linear-gradient(90deg, rgb(66, 136, 101), 0%, rgb(71, 150, 92) 35%, rgb(31, 73, 41) 100%);
+}
+
+.hero{
+  background: linear-gradient(rgba(0, 0, 0, 0.3), #39835e9d), url(../menuig/fondo.jpg.jpg);
+}
+
+
+
+.text1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color: rgb(185, 183, 183);
+  text-align: center;
+  padding: 100px;
+}
+
+
+
+.subt1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(185, 183, 183);
+  display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+    text-transform: uppercase;
+}
+
+.titulo1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(185, 183, 183);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+ 
+
+.parrafo1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(255, 255, 255);
+  display: flex;
+  text-align: center;
+  width: 20%;
+  height: 3%;
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.titulo2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(185, 183, 183);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.parrafo2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(255, 255, 255);
+  display: flex;
+  text-align: center;
+  width: 20%;
+  height: 3%;
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(185, 183, 183);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.parrafo3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow:  1px 1px 2px rgba(0, 0, 0, 0.5);
+  color:rgb(255, 255, 255);
+  display: flex;
+  text-align: center;
+  width: 20%;
+  height: 3%;
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedorimg {
+  text-align: center;
+}
+
+.tituloMenu {
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
+  font-family: Montserrat;
+  background-color: #21612c;
+}
+
+.tituloTienda {
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 88px;
+  text-align: center;
+  color: #21612c;
+  font-family: serif;
+}
+
+.parrafoA {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.suv1{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+.suv2{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.suv3{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+.suv4{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.suv5{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.suv6{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.suv7{
+  margin: 20px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.btntienda{
+    background-color: #2b7a43;
+    color: #fafafa;
+    border-radius: 3px;
+    margin-bottom: 30px;
+  }
+  .btntienda:hover {
+    background-color: #21612c;
+    color: #fafafa;
+  }
+  
+
+.Titulomenu {
+  text-align: center;
+  color: #21612c;
+  font-family: serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 40px;
+  background-color: seagreen;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.bienvenida{
+  color: darkgreen;
+  font-size: 15px;
+  padding: 0;
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: unset;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #b3b3b3;
+ 
+}
+
+
+.logo {
+  font-size: 32px;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.navbar a {
+  position: relative;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 300;
+  text-decoration: none;
+  margin-left: 40px;
+}
+.navbar a::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #fff;
+  transition: 0.3s;
+}
+.navbar a:hover::before {
+  width: 100%;
+}
+
+.productos {
+  background-color: #3c945e;
+  color: #fafafa;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 16px;
+}
+.productos h2 {
+  font-size: 3rem;
+}
+
+/*# sourceMappingURL=style.css.map */

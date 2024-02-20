@@ -1,0 +1,30 @@
+.form {
+    width: 24%;
+    padding: 50px;
+    border-radius: 20px;
+  }
+  
+  .boton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container2 {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 200px;
+  }
+  
+  .footer {
+    bottom: 0;
+    position: absolute;
+  }
+  
+  .row {
+    box-sizing: content-box;
+    width: 100%;
+  }
+  

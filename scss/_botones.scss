@@ -1,0 +1,46 @@
+.btncafecitos {
+    background-color: $color-botones;
+    color: $color;
+  
+    &:hover {
+      background-color: $color-botones;
+      color: $color;
+    }
+  }
+
+  .btntienda{
+    background-color: $color-botones;
+    color: $color;
+    border-radius: 3px;
+    margin-bottom: 30px;
+  }
+  .btntienda:hover {
+    background-color: $color-botones;
+    color: $color;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .contactate {
+    margin: auto;
+  }
+  
+  .nombre {
+    margin: auto;
+    padding: auto;
+    background-color: $color-fondo;
+  }
+  
+  .contacto {
+    color: rgb(235, 235, 235);
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .body1 {
+    background: linear-gradient(90deg, rgb(66, 136, 101), 0%, rgb(71, 150, 92) 35%, rgb(31, 73, 41) 100%);
+    font-family: 'Times New Roman', Times, serif;
+  }

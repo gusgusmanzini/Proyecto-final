@@ -1,0 +1,12 @@
+.productos {
+    background-color: $color-fondo;
+    color: #fafafa;
+    text-align: center;
+    @include anclas;
+    font-weight: bold;
+    padding: 16px;
+  
+    h2 {
+      font-size: 3rem;
+    }
+  }

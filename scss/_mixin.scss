@@ -1,0 +1,17 @@
+//mixin
+
+@mixin anclas {
+    text-transform: none;
+    color: $color;
+  
+}
+
+@media (max-width: 952px) {
+.logo{
+    padding-left:20px ;
+}
+}
+
+@media (max-width: 858px) {
+    
+}
